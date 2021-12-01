@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zaidderiya
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN
+- 📫 contact me via mail zaidderiya07@gmail.com
