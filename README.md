@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaidderiya
+- 👋 Hi, I’m @Zaid Deraya
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN and JAVA Spring boot
 - 📫 contact me via mail zaidderiya07@gmail.com
